@@ -1,0 +1,13 @@
+canvas{
+  animation-name: hellobro;
+  animation-duration:4s ;
+  animation-iteration-count: infinite;
+}
+
+@keyframes hellobro{
+  from{box-shadow: 1px 1px 1000px rgb(53, 50, 190);}
+  to{box-shadow: 1px 1px 100px rgb(255, 217, 0);}
+}
+
+
+
